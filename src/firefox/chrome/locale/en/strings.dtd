@@ -1,0 +1,8 @@
+<!ENTITY app_name "Txt2tags Here">
+<!ENTITY context_menu_item "Txt2tags Toggle">
+<!ENTITY context_menu_item_shortcut "g">
+<!ENTITY forgot_to_render_back_button "Back">
+<!ENTITY forgot_to_render_send_button "Send">
+<!ENTITY toggle_button_text "T2t Toggle">
+<!ENTITY toggle_button_tooltip "Click to toggle Txt2tags rendering">
+<!ENTITY toggle_button_tooltip_disabled "The selected field is not valid for Txt2tags rendering">

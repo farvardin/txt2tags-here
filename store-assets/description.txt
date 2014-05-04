@@ -1,0 +1,22 @@
+Txt2tags Here lets you write email in Txt2tags and render it (make it pretty!) before sending. (It is based on Markdown Here)
+
+This is great for anyone who doesn't like fiddling around with formatting buttons while writing an email. It's especially good for programmers who write email with code in them -- it even supports syntax highlighting. And for the mathematicians among us: Txt2tags Here will render TeX formulae as well.
+
+Totally simple to use:
+1. Write your email in your email client's rich editor using Txt2tags.
+2. Right-click in the compose area and then click "Txt2tags Toggle".
+3. Your email is now pretty! (That is, it's been rendered to HTML.)
+4. If you like the way it looks, just send it. If you want to change or add something, click "Txt2tags Toggle" again to get back to your original Txt2tags. Rinse and repeat.
+
+Txt2tags Here is primarily targeted to work with Gmail and Thunderbird, but it also works pretty well with Yahoo and Hotmail. Additionally, it works great with Google Groups and Sites, Evernote's web interface, Blogger, Wordpress, and more!
+
+Syntax highlighting note: Used fenced code blocks and specify the language name. See the project page for an example.
+
+Privacy: Txt2tags Here accesses and modifies the content of your email. It can, in theory, access other web content, but does not. It also makes no Internet requests itself whatsoever. You data is modified when and where you choose, and does not leave your browser.
+
+Available as a Chrome, Firefox, Safari, Opera, and Thunderbird extension.
+
+This is an open source project. Visit Markdown Here's Github page for full instructions, more information, bug reports, or to contribute.
+
+http://markdown-here.com
+https://github.com/adam-p/markdown-here
